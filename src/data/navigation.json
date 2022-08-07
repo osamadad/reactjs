@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "linkText": "Home",
+        "link": "/",
+        "submenu": [
+        ]
+    },
+    {
+      "id": 2,
+      "linkText": "Login",
+      "link": "/login"
+    },
+    {
+        "id": 3,
+        "linkText": "Contact",
+        "link": "/contact"
+    },
+    {
+        "id": 4,
+        "linkText": "About Us",
+        "link": "/about"
+    },
+    {
+        "id": 5,
+        "linkText": "Feed Back",
+        "link": "/FeedBack"
+    },
+    {
+        "id": 6,
+        "linkText": "Terms and services",
+        "link": "/TermsAndServices"
+    }
+]
